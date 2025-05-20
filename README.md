@@ -1,7 +1,7 @@
-AtomicNWS -- NWS/NOAA Weather Receiver Software from the Atomic Corporation
+AtomicNWS -- NWS/NOAA Weather Receiver Software
 =================================================================
 
-This program is a light-weight Python based weather alert receiver that pulls directly from Weather.gov (The National Weather Service / NOAA).
+This program is a light-weight, configurable, Python based weather alert receiver that pulls directly from Weather.gov (The National Weather Service / NOAA).
 It's based off an SDK that wraps the NWS/NOAA API. Settings are available to specify what alerts you want to be notified of,
 as well as to enable logging and alert sounds for emergency alerts. Default alerts are for tornado watches, warnings and emergencies, severe thunderstorm warnings, and hurricane warnings.
 
