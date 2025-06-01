@@ -15,6 +15,8 @@ The software runs without a UI, directly through the Terminal/Console.
 A UI will most likely not be implimented, as information can be clearly displayed through the console.
 
 When editing settings.txt, do not delete quotation marks ("") -- edit the data between them.
+Make sure that the desired_alerts specified match the syntax of the official NWS' usage. 
+An alert dictionary is provided in the Alerts.txt file.
 
 -------------------------------------------
 INSTALLATION FOR WINDOWS BASED MACHINES:
